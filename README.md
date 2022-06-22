@@ -1,2 +1,21 @@
 # projects
-A list of my web development projects
+A list of my web development projects in alphabetical order
+
+- [Art Gallery Website](https://miguelzaga.github.io/art-gallery-website/)
+- [Equalizer Landing Page](https://miguelzaga.github.io/equalizer-landing-page/)
+- [FEM Integer Calculator](https://miguelzaga.github.io/fem-int-calculator/)
+- [freeCodeCamp Survey Form](https://codepen.io/miguezaga/pen/vYJgeVo)
+- [freeCodeCamp Tribute Page](https://codepen.io/miguezaga/pen/rNzWLzE)
+- [freeCodeCamp Technical Documentation](https://codepen.io/miguezaga/pen/xxLamyN)
+- [freeCodeCamp Landing Page](https://codepen.io/miguezaga/pen/MWvoNdL)
+- [freeCodeCamp Personal Porfolio](https://codepen.io/miguezaga/pen/OJjYKjx)
+- [Github User Search App](https://miguelzaga.github.io/github-user-search-app)
+- [Interactive Rating Component](https://miguelzaga.github.io/interactive-rating-component)
+- [Meet Landing Page](https://miguelzaga.github.io/meet-landing-page)
+- [Megatronix Website](https://megatronix-6.herokuapp.com/)
+- [NFT Preview Card Component](https://miguelzaga.github.io/nft-preview-card-component)
+- [Pod Request Access Landing Page](https://miguelzaga.github.io/pod-request-access-landing-page)
+- [QR Code Component](https://miguelzaga.github.io/qr-code-component/)
+- [Skilled elearning Landing Page](https://miguelzaga.github.io/skilled-elearning-landing-page)
+- [Suite Landing Page](https://miguelzaga.github.io/suite-landing-page)
+- [Typemaster Pre Launch Landing Page](https://miguelzaga.github.io/typemaster-pre-launch-landing-page)
