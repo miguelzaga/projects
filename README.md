@@ -1,4 +1,4 @@
-# projects
+# Projects
 A list of my web development projects in alphabetical order
 
 - [Art Gallery Website](https://miguelzaga.github.io/art-gallery-website/)
