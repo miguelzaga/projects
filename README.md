@@ -11,6 +11,7 @@ A list of my web development projects in alphabetical order
 - [freeCodeCamp Personal Porfolio](https://codepen.io/miguezaga/pen/OJjYKjx)
 - [Github User Search App](https://miguelzaga.github.io/github-user-search-app)
 - [Interactive Rating Component](https://miguelzaga.github.io/interactive-rating-component)
+- [Maker Pre-Launch Landing Page](https://miguelzaga.github.io/maker-pre-launch-landing-page/)
 - [Meet Landing Page](https://miguelzaga.github.io/meet-landing-page)
 - [Megatronix Website](https://megatronix-6.herokuapp.com/)
 - [NFT Preview Card Component](https://miguelzaga.github.io/nft-preview-card-component)
