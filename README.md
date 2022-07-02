@@ -1,14 +1,8 @@
 # Projects
-A list of my web development projects in alphabetical order
+A list of web development projects
 
 - [Art Gallery Website](https://miguelzaga.github.io/art-gallery-website/)
 - [Equalizer Landing Page](https://miguelzaga.github.io/equalizer-landing-page/)
-- [FEM Integer Calculator](https://miguelzaga.github.io/fem-int-calculator/)
-- [freeCodeCamp Survey Form](https://codepen.io/miguezaga/pen/vYJgeVo)
-- [freeCodeCamp Tribute Page](https://codepen.io/miguezaga/pen/rNzWLzE)
-- [freeCodeCamp Technical Documentation](https://codepen.io/miguezaga/pen/xxLamyN)
-- [freeCodeCamp Landing Page](https://codepen.io/miguezaga/pen/MWvoNdL)
-- [freeCodeCamp Personal Porfolio](https://codepen.io/miguezaga/pen/OJjYKjx)
 - [Github User Search App](https://miguelzaga.github.io/github-user-search-app)
 - [Interactive Rating Component](https://miguelzaga.github.io/interactive-rating-component)
 - [Maker Pre-Launch Landing Page](https://miguelzaga.github.io/maker-pre-launch-landing-page/)
