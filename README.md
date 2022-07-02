@@ -1,5 +1,5 @@
 # Projects
-A list of web development projects
+A list of my web development projects
 
 - [Art Gallery Website](https://miguelzaga.github.io/art-gallery-website/)
 - [Equalizer Landing Page](https://miguelzaga.github.io/equalizer-landing-page/)
