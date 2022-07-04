@@ -7,7 +7,6 @@ A list of my web development projects
 - [Interactive Rating Component](https://miguelzaga.github.io/interactive-rating-component)
 - [Maker Pre-Launch Landing Page](https://miguelzaga.github.io/maker-pre-launch-landing-page/)
 - [Meet Landing Page](https://miguelzaga.github.io/meet-landing-page)
-- [Megatronix Website](https://megatronix-6.herokuapp.com/)
 - [NFT Preview Card Component](https://miguelzaga.github.io/nft-preview-card-component)
 - [Pod Request Access Landing Page](https://miguelzaga.github.io/pod-request-access-landing-page)
 - [QR Code Component](https://miguelzaga.github.io/qr-code-component/)
